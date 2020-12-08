@@ -1,0 +1,2 @@
+module TestTask1 {
+}
